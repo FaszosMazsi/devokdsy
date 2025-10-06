@@ -1,0 +1,17 @@
+C:\Users\Kornel\source\repos\Devox1.0\Devox1.0\repos\imgui\imgui.cpp;C:\Users\Kornel\source\repos\Devox1.0\Devox1.0\x64\Debug\intermediates\imgui.obj
+C:\Users\Kornel\source\repos\Devox1.0\Devox1.0\repos\imgui\imgui_demo.cpp;C:\Users\Kornel\source\repos\Devox1.0\Devox1.0\x64\Debug\intermediates\imgui_demo.obj
+C:\Users\Kornel\source\repos\Devox1.0\Devox1.0\repos\imgui\imgui_draw.cpp;C:\Users\Kornel\source\repos\Devox1.0\Devox1.0\x64\Debug\intermediates\imgui_draw.obj
+C:\Users\Kornel\source\repos\Devox1.0\Devox1.0\repos\imgui\imgui_impl_dx11.cpp;C:\Users\Kornel\source\repos\Devox1.0\Devox1.0\x64\Debug\intermediates\imgui_impl_dx11.obj
+C:\Users\Kornel\source\repos\Devox1.0\Devox1.0\repos\imgui\imgui_impl_win32.cpp;C:\Users\Kornel\source\repos\Devox1.0\Devox1.0\x64\Debug\intermediates\imgui_impl_win32.obj
+C:\Users\Kornel\source\repos\Devox1.0\Devox1.0\repos\imgui\imgui_tables.cpp;C:\Users\Kornel\source\repos\Devox1.0\Devox1.0\x64\Debug\intermediates\imgui_tables.obj
+C:\Users\Kornel\source\repos\Devox1.0\Devox1.0\repos\imgui\imgui_widgets.cpp;C:\Users\Kornel\source\repos\Devox1.0\Devox1.0\x64\Debug\intermediates\imgui_widgets.obj
+C:\Users\Kornel\source\repos\Devox1.0\Devox1.0\repos\minhook\buffer.c;C:\Users\Kornel\source\repos\Devox1.0\Devox1.0\x64\Debug\intermediates\buffer.obj
+C:\Users\Kornel\source\repos\Devox1.0\Devox1.0\repos\minhook\hde\hde32.c;C:\Users\Kornel\source\repos\Devox1.0\Devox1.0\x64\Debug\intermediates\hde32.obj
+C:\Users\Kornel\source\repos\Devox1.0\Devox1.0\repos\minhook\hde\hde64.c;C:\Users\Kornel\source\repos\Devox1.0\Devox1.0\x64\Debug\intermediates\hde64.obj
+C:\Users\Kornel\source\repos\Devox1.0\Devox1.0\repos\minhook\hook.c;C:\Users\Kornel\source\repos\Devox1.0\Devox1.0\x64\Debug\intermediates\hook.obj
+C:\Users\Kornel\source\repos\Devox1.0\Devox1.0\repos\minhook\trampoline.c;C:\Users\Kornel\source\repos\Devox1.0\Devox1.0\x64\Debug\intermediates\trampoline.obj
+C:\Users\Kornel\source\repos\Devox1.0\Devox1.0\src\core\Hooks.cpp;C:\Users\Kornel\source\repos\Devox1.0\Devox1.0\x64\Debug\intermediates\Hooks.obj
+C:\Users\Kornel\source\repos\Devox1.0\Devox1.0\src\core\interface.cpp;C:\Users\Kornel\source\repos\Devox1.0\Devox1.0\x64\Debug\intermediates\interface.obj
+C:\Users\Kornel\source\repos\Devox1.0\Devox1.0\src\core\Menu.cpp;C:\Users\Kornel\source\repos\Devox1.0\Devox1.0\x64\Debug\intermediates\Menu.obj
+C:\Users\Kornel\source\repos\Devox1.0\Devox1.0\src\dll_main.cpp;C:\Users\Kornel\source\repos\Devox1.0\Devox1.0\x64\Debug\intermediates\dll_main.obj
+C:\Users\Kornel\source\repos\Devox1.0\Devox1.0\src\sdk\memoria_utils.cpp;C:\Users\Kornel\source\repos\Devox1.0\Devox1.0\x64\Debug\intermediates\memoria_utils.obj

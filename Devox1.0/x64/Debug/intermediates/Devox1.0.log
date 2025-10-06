@@ -1,0 +1,42 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Hooks.cpp
+C:\Users\Kornel\source\repos\Devox1.0\Devox1.0\src\sdk\interface\dx11_csereinput.h(4,7): warning C4099: 'IDXGISwapChain': type name first seen using 'struct' now seen using 'class'
+  (compiling source file 'src/core/Hooks.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\dxgi.h(1809,5):
+      see declaration of 'IDXGISwapChain'
+  
+  interface.cpp
+C:\Users\Kornel\source\repos\Devox1.0\Devox1.0\src\sdk\interface\dx11_csereinput.h(4,7): warning C4099: 'IDXGISwapChain': type name first seen using 'struct' now seen using 'class'
+  (compiling source file 'src/core/interface.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\dxgi.h(1809,5):
+      see declaration of 'IDXGISwapChain'
+  
+  Menu.cpp
+C:\Users\Kornel\source\repos\Devox1.0\Devox1.0\src\sdk\interface\dx11_csereinput.h(4,7): warning C4099: 'IDXGISwapChain': type name first seen using 'struct' now seen using 'class'
+  (compiling source file 'src/core/Menu.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\dxgi.h(1809,5):
+      see declaration of 'IDXGISwapChain'
+  
+  dll_main.cpp
+C:\Users\Kornel\source\repos\Devox1.0\Devox1.0\src\sdk\interface\dx11_csereinput.h(4,7): warning C4099: 'IDXGISwapChain': type name first seen using 'struct' now seen using 'class'
+  (compiling source file 'src/dll_main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\dxgi.h(1809,5):
+      see declaration of 'IDXGISwapChain'
+  
+  memoria_utils.cpp
+  Generating Code...
+  buffer.c
+  hde32.c
+  hde64.c
+  hook.c
+  trampoline.c
+  Generating Code...
+  Devox1.0.vcxproj -> C:\Users\Kornel\source\repos\Devox1.0\x64\Debug\Devox1.0.dll
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
