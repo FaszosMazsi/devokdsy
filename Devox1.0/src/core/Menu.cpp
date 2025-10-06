@@ -15,7 +15,7 @@ static WNDPROC original_wndproc = nullptr;
 extern LRESULT ImGui_ImplWin32_WndProcHandler(HWND hwnd, UINT msg, WPARAM wParam, LPARAM lParam);
 
 LRESULT __stdcall hook_wndproc(HWND hwnd, UINT msg, WPARAM wParam, LPARAM lParam) {
-	if (wParam == WM_KEYDOWN && lParam == VK_INSERT) {
+	if (msg == WM_KEYDOWN && wParam == VK_INSERT) {
 		
 		globals::menu_opened = !globals::menu_opened;
 		//ImGui::GetIO().MouseDrawCursor = globals::menu_nyitva;
@@ -79,4 +79,5 @@ namespace menu {
 		ImGui::Text("Hello, world!");
 		ImGui::End();
 	}
+
 }
